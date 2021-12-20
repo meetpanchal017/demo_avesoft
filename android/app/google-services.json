@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451775561374",
+    "project_id": "fir-avesoft",
+    "storage_bucket": "fir-avesoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451775561374:android:1bbace45308b05e7e8458f",
+        "android_client_info": {
+          "package_name": "com.example.demo_avesoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451775561374-mlrbboh56dnh7vsf5mj1fmkl80ffp6co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBIk1-Nc03BK-g3eofnqhs1d5BEdFHE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451775561374-mlrbboh56dnh7vsf5mj1fmkl80ffp6co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
